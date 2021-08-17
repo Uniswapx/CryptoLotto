@@ -2,10 +2,13 @@
 Fully Transparent Crypto based Lottery
 
 # 💴 Introduction
-This is **FULLY** transparent crypto based lottery  
+💎💎 **Be a Lottery Winner!** 💎💎  
+Unlike others, we are 🔥 **UNIQUE** 🔥 because,  
+This is **FULLY transparent** crypto based lottery!  
 All process is done solely with the **SINGLE** smart contract.  
-Smart contract is verified and all code is open.  
-## So everyone can check and verify 🔥 EVERYTHING OF THIS LOTTERY 🔥
+Smart contract is verified and code is **ALL OPEN**  
+## So everyone can check and verify 🔥 **EVERYTHING OF THIS LOTTERY** 🔥
+Join @CryptoLottoTG for details!!
 
 # 🔗 Links
 Join this channel to get official updates and announcements  
