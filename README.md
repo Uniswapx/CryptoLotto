@@ -13,7 +13,7 @@ Join this channel to get official updates and announcements
 Join this group to ask / discuss / request for this project  
 📩 Group: https://t.me/CryptoLottoChats  
 All the informations are in this github  
-📝 Github: https://github.com/AllCoinLab/CryptoLotto
+📝 Github: https://github.com/AllCoinLab/CryptoLotto  
 Any questions, promotions, etc  
 📞 Contact: https://t.me/AllCoinLab  
 
@@ -28,14 +28,14 @@ I will obey the rules below to make this project **TRANSPARENT**
 6. And there will be more rule to make this project **MORE TRANSPARENT**
 
 # 📜 TODO List
-✅Always Shilling
-✅Making User betting system
-✅Making Random selection system
-✅Making Fund Managing system
-▶️Test for overall system
-⏸Decision for the important variables
-⏸Gathering the People
-⏸Launch the project
+✅Always Shilling  
+✅Making User betting system  
+✅Making Random selection system  
+✅Making Fund Managing system  
+▶️Test for overall system  
+⏸Decision for the important variables  
+⏸Gathering the People  
+⏸Launch the project  
 
 # Motivation
 Hello  
