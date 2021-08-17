@@ -11,11 +11,14 @@ Smart contract is verified and all code is open.
 Join this channel to get official updates and announcements  
 📣 Channel: https://t.me/CryptoLottoTG  
 Join this group to ask / discuss / request for this project  
-📩 Group: https://t.me/CryptoLottoChats  
+👥 Group: https://t.me/CryptoLottoChats  
 All the informations are in this github  
 📝 Github: https://github.com/AllCoinLab/CryptoLotto  
+Smart Contract (Draft)
+📄 Contract: https://github.com/AllCoinLab/CryptoLotto/blob/main/CryptoLotto.sol
 Any questions, promotions, etc  
 📞 Contact: https://t.me/AllCoinLab  
+
 
 # 📌 Rule
 I will obey the rules below to make this project **TRANSPARENT**
