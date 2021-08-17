@@ -19,8 +19,8 @@ All process is done solely with the **SINGLE** smart contract.
 Smart contract is verified and all code is open.  
 ## So everyone can check and verify 🔥 EVERYTHING OF THIS LOTTERY 🔥
 
-# 📌 Main Rule
-I will obey the main rules below to make this project **TRANSPARENT**
+# 📌 Rule
+I will obey the rules below to make this project **TRANSPARENT**
 1. All users can check every participants bet amount
 2. All users can check how much fee is paid to me
 3. I will **NEVER** join the lotto so as to maximize the fairness
