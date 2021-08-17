@@ -17,8 +17,8 @@ Join this group to ask / discuss / request for this project
 👥 Group: https://t.me/CryptoLottoChats  
 All the informations are in this github  
 📝 Github: https://github.com/AllCoinLab/CryptoLotto  
-Smart Contract (Draft version. will be updated periodically)
-📄 Contract: https://github.com/AllCoinLab/CryptoLotto/blob/main/CryptoLotto.sol
+Smart Contract (Draft version. will be updated periodically)  
+📄 Contract: https://github.com/AllCoinLab/CryptoLotto/blob/main/CryptoLotto.sol  
 Any questions, promotions, etc  
 📞 Contact: https://t.me/AllCoinLab  
 
