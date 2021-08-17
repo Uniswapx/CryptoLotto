@@ -52,10 +52,24 @@ I am shilling this group before full preparation.
 I will focus on developing and completing this project to be live,  
 also making decisions of payment, rate, mininum bet, etc.  
 
+If you have any suggestions,
+write down in the group freely.
+
+Thx :)
+
+# 📜 TODO List
+✅Always Shilling
+✅Making User betting system
+✅Making Random selection system
+✅Making Fund Managing system
+▶️Test for overall system
+⏸Decision for the important variables
+⏸Gathering the People
+⏸Launch the project
 
 # DISCLAIMER
 Some things can be changed due to unexpected situations  
-All of them will be shared in here or official channel  
+All of them will be shared in github or channel  
 https://github.com/AllCoinLab/CryptoLotto#Links
 
 # Other Projects
