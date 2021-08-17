@@ -22,6 +22,8 @@ Smart Contract (Draft version. will be updated periodically)
 Any questions, promotions, etc  
 📞 Contact: https://t.me/AllCoinLab  
 
+# How to join the Lottery?
+https://github.com/AllCoinLab/CryptoLotto/wiki/How-to-participate-in-the-lottery  
 
 # 📌 Rule
 I will obey the rules below to make this project **TRANSPARENT**
