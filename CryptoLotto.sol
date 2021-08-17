@@ -130,7 +130,7 @@ contract lotto {
         uint[] memory winner_id_cnts = new uint[](id2user.length);
         for (uint i; i < n; i++) {
             // simple but powerful multiple random number generator
-            uint winner_id = uint(keccak256(abi.encode(seed, i, block.timestamp))) % id2user.length;
+            uint winner_id = uint(keccak256(abi.encode(seed, i, block.timestamp))) % id2user.length; // 0 ~ N - 1
             winner_id_cnts[winner_id]++;
         }
         
@@ -142,7 +142,7 @@ contract lotto {
             if (winner_id_cnts[id] != 0) {
                 uint prize = total_prize * winner_id_cnts[id] / n;
                 payable(id2user[id]).transfer(prize);
-                emit WINNERS(id2user[id], id, prize);
+                emit WINNERS(id2user[id], id + 1, prize); // id starts from 1
             }
         }
         
