@@ -1,23 +1,21 @@
 # 💰💰💰 Crypto Lotto 💰💰💰
 Fully Transparent Crypto based Lottery
 
-# 🔗 Links
-Join this channel to get official updates and announcements  
-📣 Channel: https://t.me/CryptoLottoTG  
-Join this group to ask / discuss / request for this project  
-📩 Group: https://t.me/CryptoLottoChats  
-
-All the informations are in this github  
-📝 Github: https://github.com/AllCoinLab/CryptoLotto
-
-Any questions, promotions, etc  
-📞 Contact: https://t.me/AllCoinLab  
- 
 # 💴 Introduction
 This is **FULLY** transparent crypto based lottery  
 All process is done solely with the **SINGLE** smart contract.  
 Smart contract is verified and all code is open.  
 ## So everyone can check and verify 🔥 EVERYTHING OF THIS LOTTERY 🔥
+
+# 🔗 Links
+Join this channel to get official updates and announcements  
+📣 Channel: https://t.me/CryptoLottoTG  
+Join this group to ask / discuss / request for this project  
+📩 Group: https://t.me/CryptoLottoChats  
+All the informations are in this github  
+📝 Github: https://github.com/AllCoinLab/CryptoLotto
+Any questions, promotions, etc  
+📞 Contact: https://t.me/AllCoinLab  
 
 # 📌 Rule
 I will obey the rules below to make this project **TRANSPARENT**
@@ -28,6 +26,16 @@ I will obey the rules below to make this project **TRANSPARENT**
 (It means max 5%, actual fee will be very likely to be much lower than this)
 5. All the progress will be written in channel at each todo list
 6. And there will be more rule to make this project **MORE TRANSPARENT**
+
+# 📜 TODO List
+✅Always Shilling
+✅Making User betting system
+✅Making Random selection system
+✅Making Fund Managing system
+▶️Test for overall system
+⏸Decision for the important variables
+⏸Gathering the People
+⏸Launch the project
 
 # Motivation
 Hello  
@@ -56,16 +64,6 @@ If you have any suggestions,
 write down in the group freely.
 
 Thx :)
-
-# 📜 TODO List
-✅Always Shilling
-✅Making User betting system
-✅Making Random selection system
-✅Making Fund Managing system
-▶️Test for overall system
-⏸Decision for the important variables
-⏸Gathering the People
-⏸Launch the project
 
 # DISCLAIMER
 Some things can be changed due to unexpected situations  
